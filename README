@@ -1,0 +1,6 @@
+Class Project: Face Identification from One Example
+Date: Jan 2009
+Based on: Ferencz, Learned-Miller, and Malik. Learning to locate informative features for visual identification. In: IJCV 2008.
+
+Code is online mainly for my reference. It is licensed under GPLv2 for non-commercial research purposes only.
+The dataset used was collected from IMDB profile photos and aligned to have a common face location.
